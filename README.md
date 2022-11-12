@@ -38,7 +38,7 @@ optional arguments:
 ```
 
 ## Example
-Run an example that utilizes the converter class. In more detail convert the image contained in path ```./dog.png``` , save the ascii image at the path ```./dogAscii.txt```, invert the loaded image and resize it to 256x100.
+Run an example that utilizes the converter class. In more detail convert the image contained in path ```./dog.png``` , save the ascii image at the path ```./dogAscii.txt```, invert the loaded image and resize it to 150x100.
 ```
 python3 example.py -p ./dog.png -s ./dogAscii.txt --invertFlag --resizeFlag -w 150 -g 100
 ```

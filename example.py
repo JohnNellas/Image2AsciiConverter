@@ -37,7 +37,7 @@ converter = image2ascii.Image2AsciiConverter()
 
 # read the specified image
 converter.read_image(image_path,
-                     show_image=True,
+                     show_image=False,
                      invertFlag=invertFlag,
                      target_size=target_size)
 

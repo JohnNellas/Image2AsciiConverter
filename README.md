@@ -8,7 +8,12 @@ A simple Image2ascii converter written in python.
 git clone https://github.com/JohnNellas/Image2AsciiConverter.git
 ```
 
-2. Install the required modules from the ```requirements.txt``` file.
+2. Move inside the cloned directory entitled ```Image2AsciiConverter```.
+```
+cd Image2AsciiConverter
+```
+
+3. Install the required modules from the ```requirements.txt``` file.
 ```
 pip install -r requirements.txt
 ```
